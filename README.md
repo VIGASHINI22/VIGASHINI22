@@ -16,8 +16,33 @@ I'm a Developer, Learner and Mentor!!
 ## Skills
 
 - 💻 **Programming Languages:** Python, Java, JavaScript
-- 🚀 **Technologies:** Frontend (HTML, CSS, React.js), Backend (Node.js, Express)
-- 📚 **Frameworks:** React.js, Node.js
-- ⚙️ **Tools:** GitHub, Git, Postman
+- 🚀 **Frontend Technologies:**
+  - HTML5, CSS3, SASS/SCSS
+  - JavaScript (ES6+), TypeScript
+  - Frontend Frameworks: React.js
+  - Responsive Web Design
+  - Webpack, Babel
 
+- ⚙️ **Backend Technologies:**
+  - Node.js, Express.js
+  - RESTful API Design
+
+- 📚 **Machine Learning:**
+  - Python Data Science Stack: NumPy, Pandas, Matplotlib, Seaborn
+  - Machine Learning Libraries: Scikit-learn, TensorFlow, PyTorch
+  - Natural Language Processing (NLP) with NLTK, SpaCy
+  - Computer Vision with OpenCV
+  - Model Deployment: Flask, FastAPI
+  - Data Cleaning and Preprocessing
+
+- ⚙️ **Frameworks:**
+  - React.js , Angular for frontend
+  - Node.js, Express.js for backend
+  - Flask, FastAPI for machine learning model deployment
+
+- ⚙️ **Tools:**
+- - Version Control: Git, GitHub
+  - API Development: Postman
+  - Containerization: Docker
+  - Collaboration: Slack, Microsoft Teams
 
