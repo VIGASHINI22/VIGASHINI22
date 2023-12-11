@@ -10,9 +10,11 @@ I am Vigashini G P :)
 - ⚡ Fun fact: I speak 3 languages ( English,Tamil,Hindi)
 
 <br />
+<br />
 ### Talk with me, I am kinda awesome:
-- 🌐 Check out my [GitHub Profile](https://github.com/VIGASHINI22)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vigashinigp)
+
+-  🌐 Check out my [GitHub Profile](https://github.com/VIGASHINI22)
+-  💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vigashinigp)
 <br />
 <br />
 
