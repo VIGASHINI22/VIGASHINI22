@@ -1,16 +1,13 @@
-### Hi Everyone👋 I am Vigashini G P
+### Hi Everyone👋 
+I am Vigashini G P :) 
 
-<!--
-**VIGASHINI22/VIGASHINI22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Developer, Learner and Mentor!!
+🔭 I’m currently working in Frontend Projects.
+🌱 I’m currently learning React and Oracle CLoud Infrastructure
+👯 I’m looking to collaborate on open source
+💬 Ask me about ... Anything
+😄 Pronouns: She/Her
+⚡ Fun fact: I speak 3 languages ( English,Tamil,Hindi)
+Talk with me, I am kinda awesome:
+LinkedIn:https://www.linkedin.com/in/vigashinigp/
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
