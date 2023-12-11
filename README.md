@@ -15,7 +15,8 @@ I am Vigashini G P :)
 - 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/vigashinigp)
 <br />
 <br />
-## Skills
+
+### Skills
 
 - 💻 **Programming Languages:** Python, Java, JavaScript
 - 🚀 **Frontend Technologies:**
