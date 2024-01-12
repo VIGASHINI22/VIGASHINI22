@@ -10,7 +10,6 @@
 <a href="https://linkedin.com/in/vigashinigp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vigashinigp" height="30" width="40" /></a>
 <a href="https://instagram.com/i_vigashini" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="i_vigashini" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/vigashinigp" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vigashinigp" height="30" width="40" /></a>
- <h1> Check my Portfolio  <a href="https://github.com/VIGASHINI22"></a></h1>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
